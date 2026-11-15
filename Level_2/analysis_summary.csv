@@ -1,0 +1,57 @@
+Metric,Value
+Dataset rows,9551.0
+Dataset columns,22.0
+Average votes per restaurant,156.91
+Valid coordinate records,9551.0
+Records within approximate India bounds,8174.0
+Repeated restaurant names (potential chains),734.0
+Rating range 0 (Unrated),2148.0
+Rating range >0–2,10.0
+Rating range >2–3,1891.0
+Rating range >3–4,4388.0
+Rating range >4–5,1114.0
+"Common cuisine combination: Chinese, North Indian",616.0
+"Common cuisine combination: Mughlai, North Indian",395.0
+"Common cuisine combination: Chinese, Mughlai, North Indian",306.0
+"Common cuisine combination: Bakery, Desserts",182.0
+"Common cuisine combination: Chinese, Fast Food",159.0
+"Common cuisine combination: Fast Food, Pizza",142.0
+"Common cuisine combination: Chinese, North Indian, South Indian",137.0
+"Common cuisine combination: Mithai, Street Food",134.0
+"Common cuisine combination: Fast Food, North Indian",120.0
+"Common cuisine combination: Bakery, Fast Food",117.0
+"Average rating: Cafe, Continental, Italian",4.11
+"Average rating: American, Burger",4.07
+"Average rating: Japanese, Sushi",4.06
+"Average rating: Bakery, Cafe, Desserts",4.03
+"Average rating: Cafe, Desserts",3.97
+"Average rating: Cafe, Italian",3.93
+"Average rating: Cafe, Continental",3.87
+"Average rating: Asian, Chinese, Thai",3.77
+"Average rating: Cafe, Tea",3.77
+"Average rating: Italian, Pizza",3.74
+Top city: New Delhi,5473.0
+Top city: Gurgaon,1118.0
+Top city: Noida,1080.0
+Top city: Faridabad,251.0
+Top city: Ghaziabad,25.0
+Top city: Bhubaneshwar,21.0
+Top city: Amritsar,21.0
+Top city: Ahmedabad,21.0
+Top city: Lucknow,21.0
+Top city: Guwahati,21.0
+Highest-rated repeated name: Chili's,4.58
+Highest-rated repeated name: Farzi Cafe,4.37
+Highest-rated repeated name: Barbeque Nation,4.35
+Highest-rated repeated name: Punjab Grill,4.34
+Highest-rated repeated name: Mocha,4.19
+Highest-rated repeated name: Happy Hakka,3.86
+Highest-rated repeated name: Texas Roadhouse,3.86
+Highest-rated repeated name: TGI Friday's,3.85
+Highest-rated repeated name: L'Opera,3.82
+Highest-rated repeated name: Starbucks,3.81
+Most-voted repeated name: Barbeque Nation,28142.0
+Most-voted repeated name: AB's - Absolute Barbecues,13400.0
+Most-voted repeated name: Big Chill,10853.0
+Most-voted repeated name: Farzi Cafe,10098.0
+Most-voted repeated name: Truffles,9682.0

@@ -1,0 +1,40 @@
+# COGNIFYZ DATA ANALYSIS INTERNSHIP
+## LEVEL 3 – TASK 3: PRICE RANGE VS ONLINE DELIVERY AND TABLE BOOKING
+
+### 1. Objective
+To analyse the relationship between restaurant price ranges and the availability of online delivery and table booking services.
+
+### 2. Dataset
+The analysis was performed using the Zomato restaurant dataset provided for the Cognifyz internship.
+
+### 3. Analysis Performed
+- Grouped restaurants according to their price ranges.
+- Calculated the total number of restaurants in each price category.
+- Counted restaurants offering online delivery.
+- Counted restaurants offering table booking.
+- Calculated online delivery availability percentages.
+- Calculated table booking availability percentages.
+- Compared service availability between the lowest and highest price ranges.
+- Identified the price ranges with the highest service availability.
+
+### 4. Visualisations
+1. `task3_service_availability.png` – Comparison of online delivery and table booking.
+2. `task3_online_delivery.png` – Online delivery availability by price range.
+3. `task3_table_booking.png` – Table booking availability by price range.
+
+### 5. Output File
+`task3_price_range_service_analysis.csv`
+
+### 6. Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+- NumPy
+- VS Code
+
+### 7. Conclusion
+The analysis compares online delivery and table booking availability across different restaurant price categories. The calculated percentages help identify differences in service availability between lower-priced and higher-priced restaurants.
+
+The results can help understand whether restaurant pricing is associated with the availability of these services.
+
+**Note:** Conclusions about higher-priced restaurants offering more services should be based on the actual calculated percentages, rather than assumptions.

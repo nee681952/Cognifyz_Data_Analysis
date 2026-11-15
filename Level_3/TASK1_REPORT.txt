@@ -1,0 +1,28 @@
+COGNIFYZ DATA ANALYSIS INTERNSHIP
+LEVEL 3 - TASK 1: RESTAURANT REVIEWS
+
+1. Objective
+To analyse restaurant ratings and customer review information.
+
+2. Dataset
+The supplied dataset contains restaurant ratings and rating
+categories, but does not contain written customer reviews.
+
+3. Analysis Performed
+- Counted restaurants in each rating category.
+- Calculated average aggregate ratings by category.
+- Created a bar chart showing rating category distribution.
+
+4. Visualisation
+File: task1_rating_categories.png
+
+5. Limitation
+The dataset does not contain written review text.
+Therefore, positive and negative keyword analysis,
+average review length, and review-length versus rating
+analysis could not be performed.
+
+6. Conclusion
+The available rating categories provide an overview of
+restaurant rating distribution. Further review analysis
+requires a dataset containing actual customer review text.

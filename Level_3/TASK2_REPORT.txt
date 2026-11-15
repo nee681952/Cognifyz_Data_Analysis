@@ -1,0 +1,37 @@
+# COGNIFYZ DATA ANALYSIS INTERNSHIP
+## LEVEL 3 – TASK 2: VOTES ANALYSIS
+
+### 1. Objective
+To analyse restaurant voting patterns, identify restaurants with the highest and lowest votes, and examine the relationship between votes and aggregate ratings.
+
+### 2. Dataset
+The analysis was performed using the Zomato restaurant dataset supplied for the Cognifyz internship.
+
+### 3. Analysis Performed
+- Identified the restaurant with the highest number of votes.
+- Identified the restaurant with the lowest number of votes.
+- Calculated total votes across restaurants.
+- Calculated average and median votes.
+- Calculated the correlation between votes and aggregate ratings.
+- Identified the top 10 most-voted restaurants.
+
+### 4. Visualisations
+1. **Votes vs Aggregate Ratings:** Scatter plot showing the relationship between restaurant votes and ratings.
+2. **Top 10 Restaurants by Votes:** Horizontal bar chart comparing the voting counts of the top 10 restaurants.
+
+### 5. Output Files
+- `task2_votes_vs_ratings.png`
+- `task2_top_10_restaurants.csv`
+- `task2_top_10_votes.png`
+- `task2_votes_analysis_summary.csv`
+
+### 6. Conclusion
+The analysis identifies restaurants with the highest voting activity and examines how votes relate to aggregate ratings. The correlation value helps understand the direction and strength of the linear relationship between these two variables.
+
+### 7. Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+**Note:** The findings are based on the supplied dataset. Votes indicate user engagement and should not be treated as a direct measure of restaurant quality.
